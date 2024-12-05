@@ -5,8 +5,8 @@ This repository showcases the work I completed as part of the AIG Virtual Cybers
 ## 📂 Table of Contents
 - Program Overview
 - Tasks and Deliverables
-  - [Task 1: Cybersecurity Advisory: Apache Log4j Zero-Day Vulnerability](#-task-1-cybersecurity-advisory-apache-log4j-zero-day-vulnerability)
-  - [Task 2: Bypassing Ransomware Encryption: Bruteforce Decryption Key](#-task-2-bypassing-ransomware-encryption-bruteforce-decryption-key)
+  - [Task 1: Cybersecurity Advisory: Apache Log4j Zero-Day Vulnerability](https://github.com/GrantMSchamel/AIG-Projects/blob/main/AIG-Task-1.md)
+  - [Task 2: Bypassing Ransomware Encryption: Bruteforce Decryption Key](https://github.com/GrantMSchamel/AIG-Projects/blob/main/AIG-Task-2.md)
 - Skills Gained
 - Tools and Technologies Used
 
